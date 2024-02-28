@@ -2,5 +2,5 @@ A leave management system helps in recording, managing, and tracking employees' 
 It is a unified platform that manages all the employee leave and vacation-related activities in single software or solution. It streamlines the entire process and saves a lot of time for both employer and employee.
 An employee leave management system is a platform that enables   staff   and   admin   of   an organization or institution to easily apply, correctly allocate, track and grant leave (Chugh, 2014). In many institutions, staff are entitle to different kind of leave; study leave, sick leave, annual leave, leave without pay, research leave and maternity leave. These leave are been taken and recorded according   to   institution policy. The administrative department is mostly considered as one of the most important assets in every institution. It is a part of administrative department function to keep all the records of employee. Every institution administrative department is information driven, and the admin staff drives and carry out day to day activities. In    most institutions, conventional method of requesting and managing leave is been used. In conventional method, academic staff is required to manually write and submit   leave application to administrative department through the Head of Department (HOD).
 hello world
-
+gggg
 
